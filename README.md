@@ -32,3 +32,8 @@ adicionar as perguntas e em outra aba respondê-las. Segue os requisitos:
 - Como gerencia o estado e a estrutura de dados da aplicação.
 - Testes.
 - README explicativo.
+
+Sobre diversidade
+A Prosas se esforça para manter um ambiente seguro para todos os profissionais e candidatos, se você acha que tem um 
+fit bom com a empresa, não importa como você se identifica, sua idade, gênero e localização geográfica, 
+você é bem vindo, aplique! :rainbow_flag: :brown_heart: :curly_haired_woman: :person_white_hair:
